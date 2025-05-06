@@ -1,0 +1,103 @@
+Name	Index	Comments	Exclude	Sample Type	Baseline Value 	Peak Average 	AVE810_1050	SiConc	AVE810	AVE660_1050	AVE660	Calculated Concentration (uM)	Si [uM]	AVE880_1050	PO4Conc	AVE880	PO4 [uM]	Time Stamp	On File	Sequence Name
+ES SEAWATER_Si	102			Sample	-6.2955E-4	0.05944						NaN		0.036209		0.059443	NaN	 02-04-2025  06:14:37 PM	Yes	Analysis_Phosphate_Manual
+ES_SEAWATER_PO4	101			Sample	-1.4793E-4	0.05576						NaN		0.038088		0.055759	NaN	 02-04-2025  06:12:05 PM	Yes	Analysis_Phosphate_Manual
+ES_SEAWATER_PO4	100			Sample	3.2576E-4	0.0589						NaN		0.028230		0.058903	NaN	 02-04-2025  06:09:34 PM	Yes	Analysis_Phosphate_Manual
+D1_PO4	99			Sample	3.5125E-4	0.1943						NaN		0.108949		0.194281	NaN	 02-04-2025  06:06:58 PM	Yes	Analysis_Phosphate_Manual
+D1_PO4	98			Sample	1.4622E-4	0.1927						NaN		0.106527		0.192717	NaN	 02-04-2025  06:04:27 PM	Yes	Analysis_Phosphate_Manual
+D1_PO4	97			Sample	3.0468E-4	0.1908						NaN		0.106447		0.190802	NaN	 02-04-2025  06:01:56 PM	Yes	Analysis_Phosphate_Manual
+B3_PO4	96			Sample	7.0381E-4	0.1869						NaN		0.104780		0.186916	NaN	 02-04-2025  05:59:20 PM	Yes	Analysis_Phosphate_Manual
+B3_PO4	95			Sample	2.9631E-4	0.1869						NaN		0.103980		0.186938	NaN	 02-04-2025  05:56:49 PM	Yes	Analysis_Phosphate_Manual
+B3_PO4	94			Sample	-2.255E-4	0.187						NaN		0.101686		0.186984	NaN	 02-04-2025  05:54:18 PM	Yes	Analysis_Phosphate_Manual
+C1_PO4	93			Sample	4.1257E-4	0.1798						NaN		0.100515		0.179807	NaN	 02-04-2025  05:51:20 PM	Yes	Analysis_Phosphate_Manual
+C1_PO4	92			Sample	6.2388E-4	0.1803						NaN		0.102009		0.180304	NaN	 02-04-2025  05:48:49 PM	Yes	Analysis_Phosphate_Manual
+C1_PO4	91			Sample	3.5186E-4	0.1788						NaN		0.099875		0.178791	NaN	 02-04-2025  05:46:18 PM	Yes	Analysis_Phosphate_Manual
+C4_PO4	90			Sample	4.5565E-4	0.1883						NaN		0.102920		0.188281	NaN	 02-04-2025  05:43:40 PM	Yes	Analysis_Phosphate_Manual
+C4_PO4	89			Sample	1.9506E-4	0.1876						NaN		0.106474		0.187622	NaN	 02-04-2025  05:41:09 PM	Yes	Analysis_Phosphate_Manual
+C4_PO4	88			Sample	4.0418E-4	0.1852						NaN		0.104940		0.185188	NaN	 02-04-2025  05:38:39 PM	Yes	Analysis_Phosphate_Manual
+A4_PO4	87			Sample	3.5607E-4	0.1905						NaN		0.108530		0.190511	NaN	 02-04-2025  05:35:58 PM	Yes	Analysis_Phosphate_Manual
+A4_PO4	86			Sample	2.183E-4	0.191						NaN		0.106745		0.190979	NaN	 02-04-2025  05:33:27 PM	Yes	Analysis_Phosphate_Manual
+A4_PO4	85			Sample	6.8386E-4	0.1904						NaN		0.106891		0.190401	NaN	 02-04-2025  05:30:56 PM	Yes	Analysis_Phosphate_Manual
+A1_PO4	84			Sample	3.1163E-4	0.1905						NaN		0.108199		0.190475	NaN	 02-04-2025  05:28:19 PM	Yes	Analysis_Phosphate_Manual
+A1_PO4	83			Sample	6.4401E-4	0.1895						NaN		0.106206		0.189541	NaN	 02-04-2025  05:25:49 PM	Yes	Analysis_Phosphate_Manual
+A1_PO4	82			Sample	2.2446E-4	0.1868						NaN		0.105238		0.186759	NaN	 02-04-2025  05:23:18 PM	Yes	Analysis_Phosphate_Manual
+B1_PO4	81			Sample	8.321E-5	0.1808						NaN		0.100820		0.180839	NaN	 02-04-2025  05:20:19 PM	Yes	Analysis_Phosphate_Manual
+B1_PO4	80			Sample	1.2496E-4	0.1814						NaN		0.102789		0.181381	NaN	 02-04-2025  05:17:48 PM	Yes	Analysis_Phosphate_Manual
+B1_PO4	79			Sample	2.3041E-4	0.1748						NaN		0.094974		0.174819	NaN	 02-04-2025  05:15:18 PM	Yes	Analysis_Phosphate_Manual
+C3_PO4	78			Sample	4.7377E-4	0.1818						NaN		0.101364		0.181834	NaN	 02-04-2025  05:12:16 PM	Yes	Analysis_Phosphate_Manual
+C3_PO4	77			Sample	1.1364E-5	0.1825						NaN		0.102525		0.182452	NaN	 02-04-2025  05:09:45 PM	Yes	Analysis_Phosphate_Manual
+C3_PO4	76			Sample	4.4611E-5	0.1766						NaN		0.100612		0.176585	NaN	 02-04-2025  05:07:14 PM	Yes	Analysis_Phosphate_Manual
+D2_PO4	75			Sample	4.224E-4	0.1872						NaN		0.106074		0.187190	NaN	 02-04-2025  05:04:03 PM	Yes	Analysis_Phosphate_Manual
+D2_PO4	74			Sample	4.011E-4	0.1899						NaN		0.107428		0.189946	NaN	 02-04-2025  05:01:32 PM	Yes	Analysis_Phosphate_Manual
+D2_PO4	73			Sample	5.5184E-4	0.1855						NaN		0.105038		0.185462	NaN	 02-04-2025  04:59:01 PM	Yes	Analysis_Phosphate_Manual
+B4_PO4	72			Sample	7.0375E-4	0.183						NaN		0.104829		0.182995	NaN	 02-04-2025  04:56:01 PM	Yes	Analysis_Phosphate_Manual
+B4_PO4	71			Sample	5.2393E-5	0.1827						NaN		0.104810		0.182726	NaN	 02-04-2025  04:53:30 PM	Yes	Analysis_Phosphate_Manual
+B4_PO4	70			Sample	2.0138E-6	0.1809						NaN		0.100678		0.180881	NaN	 02-04-2025  04:50:59 PM	Yes	Analysis_Phosphate_Manual
+A3_PO4	69			Sample	3.6673E-4	0.1906						NaN		0.108294		0.190620	NaN	 02-04-2025  04:47:59 PM	Yes	Analysis_Phosphate_Manual
+A3_PO4	68			Sample	0.001351	0.1894						NaN		0.107576		0.189392	NaN	 02-04-2025  04:45:28 PM	Yes	Analysis_Phosphate_Manual
+A3_PO4	67			Sample	5.4729E-5	0.2027						NaN		0.113835		0.202692	NaN	 02-04-2025  04:42:58 PM	Yes	Analysis_Phosphate_Manual
+PO4_Cal	66			AutoDil Standard	-4.0748E-4	0.00846								-0.008751	0	0.008460		 02-04-2025  04:39:48 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	65			AutoDil Standard	-4.1861E-4	0.006537								-0.008407	0	0.006537		 02-04-2025  04:37:21 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	64			AutoDil Standard	-1.2255E-4	-0.001517								-0.013532	0	-0.001517		 02-04-2025  04:34:55 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	63			AutoDil Standard	-2.1057E-4	0.08764								0.042549	1	0.087638		 02-04-2025  04:32:29 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	62			AutoDil Standard	2.6792E-4	0.08452								0.041360	1	0.084524		 02-04-2025  04:30:04 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	61			AutoDil Standard	3.4413E-4	0.08011								0.040922	1	0.080113		 02-04-2025  04:27:38 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	60			AutoDil Standard	5.8894E-4	0.1887								0.110045	2	0.188716		 02-04-2025  04:25:12 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	59			AutoDil Standard	3.2814E-4	0.1834								0.104529	2	0.183419		 02-04-2025  04:22:47 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	58			AutoDil Standard	4.3939E-4	0.1862								0.106727	2	0.186185		 02-04-2025  04:20:21 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	57			AutoDil Standard	6.632E-4	0.3009								0.183275	3	0.300879		 02-04-2025  04:17:55 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	56			AutoDil Standard	3.6433E-4	0.302								0.184884	3	0.301954		 02-04-2025  04:15:29 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	55			AutoDil Standard	7.6602E-4	0.3014								0.181574	3	0.301438		 02-04-2025  04:13:03 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	54			AutoDil Standard	0.00107	0.3807								0.237143	3.666667	0.380657		 02-04-2025  04:10:37 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	53			AutoDil Standard	5.0126E-4	0.3675								0.227031	3.666667	0.367528		 02-04-2025  04:08:12 PM	Yes	Autocalibration_Phosphate
+PO4_Cal	52			AutoDil Standard	-1.0253E-4	0.3818								0.234755	3.666667	0.381759		 02-04-2025  04:05:45 PM	Yes	Autocalibration_Phosphate
+ES SEAWATER_Si	51			Sample	-0.007972	0.04876	0.209207		0.228045	0.029921	0.048760	NaN	NaN					 02-04-2025  03:55:44 PM	Yes	Analysis_Silicate_Manual
+ES SEAWATER_Si	50			Sample	-0.008797	0.05143	0.207452		0.233224	0.025659	0.051431	NaN	NaN					 02-04-2025  03:51:06 PM	Yes	Analysis_Silicate_Manual
+ES SEAWATER_Si	49			Sample	-0.008202	0.05309	0.213131		0.237478	0.029024	0.053088	NaN	NaN					 02-04-2025  03:46:29 PM	Yes	Analysis_Silicate_Manual
+C4_Si	48			Sample	4.1159E-4	0.4468	1.062094		1.324859	0.183578	0.446756	NaN	NaN					 02-04-2025  03:40:47 PM	Yes	Analysis_Silicate_Manual
+C4_Si	47			Sample	4.0724E-4	0.4423	1.048661		1.311832	0.179077	0.442312	NaN	NaN					 02-04-2025  03:36:10 PM	Yes	Analysis_Silicate_Manual
+C4_Si	46			Sample	3.5207E-4	0.4497	1.063853		1.331671	0.181773	0.449699	NaN	NaN					 02-04-2025  03:31:32 PM	Yes	Analysis_Silicate_Manual
+B2_Si	45			Sample	3.8949E-4	0.4396	1.051223		1.310080	0.180322	0.439554	NaN	NaN					 02-04-2025  03:26:41 PM	Yes	Analysis_Silicate_Manual
+B2_Si	44			Sample	3.4651E-4	0.4307	1.037215		1.293019	0.174924	0.430729	NaN	NaN					 02-04-2025  03:22:04 PM	Yes	Analysis_Silicate_Manual
+B2_Si	43			Sample	3.2816E-4	0.4439	1.054106		1.319097	0.178254	0.443890	NaN	NaN					 02-04-2025  03:17:27 PM	Yes	Analysis_Silicate_Manual
+D2_Si	42			Sample	3.5911E-4	0.444	1.055934		1.317366	0.182252	0.443963	NaN	NaN					 02-04-2025  03:12:44 PM	Yes	Analysis_Silicate_Manual
+D2_Si	41			Sample	2.9815E-4	0.4473	1.064698		1.326551	0.185540	0.447259	NaN	NaN					 02-04-2025  03:08:06 PM	Yes	Analysis_Silicate_Manual
+D2_Si	40			Sample	2.9488E-4	0.4344	1.031874		1.293481	0.172946	0.434362	NaN	NaN					 02-04-2025  03:03:29 PM	Yes	Analysis_Silicate_Manual
+C3_Si	39			Sample	3.6776E-4	0.4492	1.064236		1.329207	0.184392	0.449218	NaN	NaN					 02-04-2025  02:57:57 PM	Yes	Analysis_Silicate_Manual
+C3_Si	38			Sample	3.7728E-4	0.4501	1.068696		1.331306	0.187992	0.450148	NaN	NaN					 02-04-2025  02:53:19 PM	Yes	Analysis_Silicate_Manual
+C3_Si	37			Sample	3.9374E-4	0.4445	1.058698		1.322458	0.180617	0.444459	NaN	NaN					 02-04-2025  02:48:42 PM	Yes	Analysis_Silicate_Manual
+B4_Si	36			Sample	3.7754E-4	0.4416	1.049451		1.310313	0.180907	0.441633	NaN	NaN					 02-04-2025  02:43:01 PM	Yes	Analysis_Silicate_Manual
+B4_Si	35			Sample	3.777E-4	0.4446	1.055519		1.317468	0.182630	0.444551	NaN	NaN					 02-04-2025  02:38:23 PM	Yes	Analysis_Silicate_Manual
+B4_Si	34			Sample	3.7805E-4	0.4495	1.064248		1.330639	0.183349	0.449454	NaN	NaN					 02-04-2025  02:33:47 PM	Yes	Analysis_Silicate_Manual
+A3_Si	33			Sample	4.0672E-4	0.4409	1.043697		1.306062	0.178443	0.440859	NaN	NaN					 02-04-2025  02:28:23 PM	Yes	Analysis_Silicate_Manual
+A3_Si	32			Sample	3.2474E-4	0.4461	1.061495		1.325551	0.182318	0.446092	NaN	NaN					 02-04-2025  02:23:46 PM	Yes	Analysis_Silicate_Manual
+A3_Si	31			Sample	3.4894E-4	0.445	1.053515		1.317638	0.180886	0.444956	NaN	NaN					 02-04-2025  02:19:09 PM	Yes	Analysis_Silicate_Manual
+A2_Si	30			Sample	3.7582E-4	0.436	1.048715		1.304317	0.180170	0.436014	NaN	NaN					 02-04-2025  02:14:02 PM	Yes	Analysis_Silicate_Manual
+A2_Si	29			Sample	4.4675E-4	0.4381	1.044122		1.305926	0.176124	0.438128	NaN	NaN					 02-04-2025  02:09:24 PM	Yes	Analysis_Silicate_Manual
+A2_Si	28			Sample	3.6596E-4	0.4376	1.043530		1.304120	0.176705	0.437574	NaN	NaN					 02-04-2025  02:04:47 PM	Yes	Analysis_Silicate_Manual
+B3_Si	27			Sample	4.3044E-4	0.4488	1.061157		1.325545	0.183892	0.448762	NaN	NaN					 02-04-2025  02:00:01 PM	Yes	Analysis_Silicate_Manual
+B3_Si	26			Sample	3.6726E-4	0.4325	1.034399		1.289381	0.177190	0.432516	NaN	NaN					 02-04-2025  01:55:24 PM	Yes	Analysis_Silicate_Manual
+B3_Si	25			Sample	3.2222E-4	0.4468	1.065179		1.330927	0.180948	0.446839	NaN	NaN					 02-04-2025  01:50:48 PM	Yes	Analysis_Silicate_Manual
+A4_Si	24			Sample	4.1724E-4	0.445	1.052595		1.317517	0.180298	0.444972	NaN	NaN					 02-04-2025  01:42:55 PM	Yes	Analysis_Silicate_Manual
+A4_Si	23			Sample	3.6205E-4	0.4414	1.049609		1.311178	0.179833	0.441411	NaN	NaN					 02-04-2025  01:38:18 PM	Yes	Analysis_Silicate_Manual
+A4_Si	22			Sample	-0.005626	0.439	1.045074		1.302733	0.181376	0.439036	NaN	NaN					 02-04-2025  01:33:40 PM	Yes	Analysis_Silicate_Manual
+D1_Si	21			Sample	3.5678E-4	0.4435	1.052037		1.315422	0.180006	0.443483	NaN	NaN					 02-04-2025  01:28:58 PM	Yes	Analysis_Silicate_Manual
+D1_Si	20			Sample	3.468E-4	0.4409	1.046612		1.307478	0.179864	0.440885	NaN	NaN					 02-04-2025  01:24:20 PM	Yes	Analysis_Silicate_Manual
+D1_Si	19			Sample	3.2641E-4	0.4347	1.035513		1.296415	0.173642	0.434715	NaN	NaN					 02-04-2025  01:19:43 PM	Yes	Analysis_Silicate_Manual
+C2_Si	18			Sample	3.6646E-4	0.4455	1.055940		1.321910	0.179368	0.445451	NaN	NaN					 02-04-2025  01:14:27 PM	Yes	Analysis_Silicate_Manual
+C2_Si	17			Sample	4.8538E-4	0.4421	1.051505		1.313825	0.179827	0.442088	NaN	NaN					 02-04-2025  01:09:51 PM	Yes	Analysis_Silicate_Manual
+C2_Si	16			Sample	3.974E-4	0.431	1.041342		1.294495	0.177827	0.430967	NaN	NaN					 02-04-2025  01:05:13 PM	Yes	Analysis_Silicate_Manual
+Si_cal	15			AutoDil Standard	8.1362E-5	0.004028	0.007538	0	0.024275	-0.013003	0.004028							 02-04-2025  12:59:37 PM	Yes	AutoCalibration_Silicate
+Si_cal	14			AutoDil Standard	1.0352E-4	0.003099	0.009602	0	0.022345	-0.009701	0.003099							 02-04-2025  12:55:05 PM	Yes	AutoCalibration_Silicate
+Si_cal	13			AutoDil Standard	1.3673E-4	0.002915	0.015586	0	0.025168	-0.006667	0.002915							 02-04-2025  12:50:32 PM	Yes	AutoCalibration_Silicate
+Si_cal	12			AutoDil Standard	1.2173E-4	0.09041	0.276980	11.275000	0.358326	0.009106	0.090412							 02-04-2025  12:45:59 PM	Yes	AutoCalibration_Silicate
+Si_cal	11			AutoDil Standard	3.9548E-5	0.0887	0.276806	11.275000	0.353429	0.012036	0.088703							 02-04-2025  12:41:26 PM	Yes	AutoCalibration_Silicate
+Si_cal	10			AutoDil Standard	1.1814E-4	0.08617	0.275977	11.275000	0.351418	0.011275	0.086173							 02-04-2025  12:36:54 PM	Yes	AutoCalibration_Silicate
+Si_cal	9			AutoDil Standard	2.158E-4	0.2178	0.575717	22.550000	0.724397	0.069236	0.217800							 02-04-2025  12:32:21 PM	Yes	AutoCalibration_Silicate
+Si_cal	8			AutoDil Standard	5.473E-5	0.2104	0.557380	22.550000	0.698483	0.069549	0.210361							 02-04-2025  12:27:49 PM	Yes	AutoCalibration_Silicate
+Si_cal	7			AutoDil Standard	1.0666E-4	0.2187	0.575959	22.550000	0.724886	0.069721	0.218699							 02-04-2025  12:23:17 PM	Yes	AutoCalibration_Silicate
+Si_cal	6			AutoDil Standard	2.3241E-4	0.3497	0.865759	33.825000	1.078335	0.136360	0.349663							 02-04-2025  12:18:44 PM	Yes	AutoCalibration_Silicate
+Si_cal	5			AutoDil Standard	1.9248E-4	0.3526	0.863274	33.825000	1.079698	0.136566	0.352633							 02-04-2025  12:14:12 PM	Yes	AutoCalibration_Silicate
+Si_cal	4			AutoDil Standard	2.3635E-4	0.3605	0.871424	33.825000	1.091726	0.140209	0.360499							 02-04-2025  12:09:40 PM	Yes	AutoCalibration_Silicate
+Si_cal	3			AutoDil Standard	2.2066E-4	0.4418	1.036618	41.341667	1.293974	0.184280	0.441801							 02-04-2025  12:05:08 PM	Yes	AutoCalibration_Silicate
+Si_cal	2			AutoDil Standard	4.0909E-4	0.4592	1.061140	41.341667	1.320611	0.200118	0.459222							 02-04-2025  12:00:35 PM	Yes	AutoCalibration_Silicate
+Si_cal	1			AutoDil Standard	3.9941E-4	0.4514	1.014512	41.341667	1.263271	0.202679	0.451399							 02-04-2025  11:56:04 AM	Yes	AutoCalibration_Silicate
