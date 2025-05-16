@@ -1,8 +1,15 @@
-How to run analysis code:
+Final project paper with code included: Final_Project_FINAL
+How to run paper code:
 Open entire folder in jupyter lab/notebook.
+Open Final_Project_FINAL.
+In the methods section run code top to bottom starting with imports.
+
+
+How to run analysis code:
+Open entire folder in jupyter lab/notebook: Data, py, and jupyter.
 Ensure the Data folder contains .txt files.
 In the jupyter folder, open the Final_Project_CODE.ipynb
-Run import code cell first.
+Run import code cell first. Then run code top to bottom.
 
 Data:
 All data is within the data folder in the form of .txt files
@@ -10,6 +17,3 @@ The .txt files are from an experiment ran in the Chemical Oceanography lab at Mo
 The programmable flow injection nutrient analyzer (NUTTY) was utilized to measure the absorbances of samples.
 The FLO ZF 5.3.0451 software was connected to the analyzer and recorded all measurements.
 This programe creates a file that can be saved as a .txt file.
-
-Dependencies:
-Code must be ran from top to bottom.
