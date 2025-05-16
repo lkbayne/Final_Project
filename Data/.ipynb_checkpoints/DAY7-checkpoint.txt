@@ -39,7 +39,7 @@ C1_PO4	70			Sample	9.8012E-4	0.1292						1.923		0.064296		0.129181	1.922989	 11-
 C1_PO4	69			Sample	6.7256E-4	0.1231						1.987		0.067912		0.123136	1.987054	 11-07-2024  02:19:17 PM	Yes	Analysis_Phosphate_Manual
 C1_PO4	68			Sample	-5.8953E-5	0.1413						2.069		0.072645		0.141287	2.069318	 11-07-2024  02:16:45 PM	Yes	Analysis_Phosphate_Manual
 PO4_Cal	67			AutoDil Standard	-3.5489E-4	0.003102								-0.009719	0	0.003102		 11-07-2024  02:06:55 PM	Yes	Autocalibration_Phosphate
-PO4_Cal	66			AutoDil Standard	-2.9008E-4	0.009453								-0.009973	0	0.009453		 11-07-2024  02:04:29 PM	Yes	Analysis_Phosphate_Manual
+PO4_Cal	66			AutoDil Standard	-2.9008E-4	0.009453								-0.009973	0	0.009453		 11-07-2024  02:04:29 PM	Yes	Autocalibration_Phosphate
 PO4_Cal	65			AutoDil Standard	4.9784E-5	-0.003084								-0.021287	0	-0.003084		 11-07-2024  02:02:02 PM	Yes	Autocalibration_Phosphate
 PO4_Cal	64			AutoDil Standard	3.4559E-4	0.04355								0.019553	1	0.043545		 11-07-2024  01:59:34 PM	Yes	Autocalibration_Phosphate
 PO4_Cal	63			AutoDil Standard	4.912E-4	0.03814								0.016353	1	0.038139		 11-07-2024  01:57:07 PM	Yes	Autocalibration_Phosphate
@@ -53,10 +53,6 @@ PO4_Cal	56			AutoDil Standard	0.00119	0.2681								0.122406	3	0.268118		 11-07-
 PO4_Cal	55			AutoDil Standard	6.7478E-4	0.2872								0.186916	3.666667	0.287216		 11-07-2024  01:37:39 PM	Yes	Autocalibration_Phosphate
 PO4_Cal	54			AutoDil Standard	5.866E-4	0.2792								0.179915	3.666667	0.279236		 11-07-2024  01:35:14 PM	Yes	Autocalibration_Phosphate
 PO4_Cal	53			AutoDil Standard	-6.7485E-4	0.29								0.194219	3.666667	0.289964		 11-07-2024  01:32:48 PM	Yes	Autocalibration_Phosphate
-sample	52		X	AutoDil Standard	0.001392	0.2186								0.136907	3	0.218618		 11-07-2024  01:11:32 PM	Yes	Autocalibration_Phosphate
-sample	51		X	AutoDil Standard	0.001184	0.284								0.181654	3.666667	0.283990		 11-07-2024  01:09:05 PM	Yes	Autocalibration_Phosphate
-sample	50		X	AutoDil Standard	4.3764E-4	0.7993								0.212571	3.666667	0.799276		 11-07-2024  01:06:39 PM	Yes	Autocalibration_Phosphate
-sample	49		X	AutoDil Standard	2.7148E-4	0.3092								0.191136	3.666667	0.309235		 11-07-2024  01:04:13 PM	Yes	Autocalibration_Phosphate
 C3_Si	48			Sample	0.001832	0.5086	1.006549		1.284770	0.230203	0.508644	41.703	41.702976					 11-07-2024  12:58:57 PM	Yes	Analysis_Silicate_Manual
 C3_Si	47			Sample	0.001892	0.5018	0.991083		1.272650	0.220608	0.501802	41.036	41.036279					 11-07-2024  12:54:18 PM	Yes	Analysis_Silicate_Manual
 C3_Si	46			Sample	0.003419	0.5129	0.992060		1.286207	0.218299	0.512937	41.078	41.078209					 11-07-2024  12:49:40 PM	Yes	Analysis_Silicate_Manual

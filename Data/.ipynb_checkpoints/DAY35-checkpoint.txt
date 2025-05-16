@@ -94,3 +94,4 @@ Si_cal_1	5			AutoDil Standard	6.70E-04	0.3579	0.824975	33.825	1.027986	0.154864	
 Si_cal_1	4			AutoDil Standard	5.73E-04	0.3621	0.821336	33.825	1.031301	0.152054	0.362067							 12-05-2024  10:00:52 AM	Yes	AutoCalibration_Silicate
 Si_cal_0	3			AutoDil Standard	4.92E-04	0.4479	1.007276	41.341667	1.254604	0.200338	0.447884							 12-05-2024  09:56:21 AM	Yes	AutoCalibration_Silicate
 Si_cal_0	2			AutoDil Standard	6.77E-04	0.4491	1.002024	41.341667	1.251007	0.200057	0.449094							 12-05-2024  09:51:50 AM	Yes	AutoCalibration_Silicate
+Si_cal_0	1			AutoDil Standard	6.01E-04	0.4369	0.972653	41.341667	1.215599	0.193932	0.43686							 12-05-2024  09:47:19 AM	Yes	AutoCalibration_Silicate
