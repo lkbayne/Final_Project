@@ -1,12 +1,13 @@
 Final project paper with code included: Final_Project_FINAL
 How to run paper code:
-Open entire folder in jupyter lab/notebook.
-Open Final_Project_FINAL.
+Download entire Final_Project folder from github and open in jupyter lab/notebook.
+Open Final_Project_FINAL notebook.
 In the results section run code top to bottom starting with imports.
 
 
 How to run analysis code:
-Open entire folder in jupyter lab/notebook: Data, py, and jupyter.
+Download entire Final_Project folder from github and open in jupyter lab/notebook.
+Ensure all folers are downloaded and opened: Data, py, and jupyter.
 Ensure the Data folder contains .txt files.
 In the jupyter folder, open the Final_Project_CODE.ipynb
 Run import code cell first. Then run code top to bottom.
