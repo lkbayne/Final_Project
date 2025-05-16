@@ -1,7 +1,7 @@
 How to run analysis code:
 Open entire folder in jupyter lab/notebook.
 Ensure the Data folder contains .txt files.
-In the jupyter folder, open the Final_Project.ipynb
+In the jupyter folder, open the Final_Project_CODE.ipynb
 Run import code cell first.
 
 Data:
